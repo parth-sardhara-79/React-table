@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  text-align: center;
+}
+.redcolor {
+  color: red;
+}
+.container {
+  margin: 5%;
+  padding: 30px;
+  border: solid 1px black;
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: black 2px 2px;
+}
+.subcomp {
+  margin: 15px !important;
+}
+.searchFilter {
+  margin-bottom: 5px;
+  width: 200px !important;
+}
